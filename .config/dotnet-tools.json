@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "microsoft.quantum.iqsharp": {
+      "version": "0.28.302812",
+      "commands": [
+        "dotnet-iqsharp"
+      ]
+    }
+  }
+}

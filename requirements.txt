@@ -1,0 +1,4 @@
+qsharp
+azure-cli
+azure-quantum
+jupyterlab
